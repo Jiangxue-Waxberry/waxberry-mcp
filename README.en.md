@@ -1,36 +1,23 @@
-# waxberry-mcp
+# MCP Service Management Platform
 
-#### Description
-杨梅MCP注册服务
+## Project Overview
+The MCP Service Management Platform is a comprehensive platform designed for registering and managing various MCP services. It aims to provide a unified interface for managing, monitoring, and maintaining MCP services, making service management more efficient and convenient.
 
-#### Software Architecture
-Software architecture description
+## Development Roadmap
+- [ ] Basic service registration
+- [ ] Service management interface
+- [ ] Basic monitoring features
+- [ ] User permission management
 
-#### Installation
+## Contributing
+1. Fork the repository
+2. Create a feature branch
+3. Commit your changes
+4. Create a Pull Request
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+## License
+MIT License - see the [LICENSE](LICENSE) file for details
 
-#### Instructions
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Contribution
-
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
-
-
-#### Gitee Feature
-
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+## Contact
+- Repository: [https://gitee.com/jiangxue-waxberry/waxberry-rag.git]
+- Email: [info@yangmeigongye.com] 
