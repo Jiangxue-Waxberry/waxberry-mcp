@@ -16,8 +16,8 @@ MCP 服务管理平台是一个专为注册和管理各种 MCP 服务而设计�
 4. 创建 Pull Request
 
 ## 许可证
-MIT License - 查看 [LICENSE](LICENSE) 文件了解详情
+Apache License - 查看 [LICENSE](LICENSE) 文件了解详情
 
 ## 联系方式
-- 项目仓库: [https://gitee.com/jiangxue-waxberry/waxberry-rag.git]
+- 项目仓库: [https://gitee.com/jiangxue-waxberry/waxberry-mcp.git]
 - 邮箱: [info@yangmeigongye.com]

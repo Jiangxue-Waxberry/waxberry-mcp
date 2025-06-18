@@ -16,7 +16,7 @@ The MCP Service Management Platform is a comprehensive platform designed for reg
 4. Create a Pull Request
 
 ## License
-MIT License - see the [LICENSE](LICENSE) file for details
+Apache License - see the [LICENSE](LICENSE) file for details
 
 ## Contact
 - Repository: [https://gitee.com/jiangxue-waxberry/waxberry-rag.git]
