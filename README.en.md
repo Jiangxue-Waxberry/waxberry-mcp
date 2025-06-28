@@ -18,6 +18,3 @@ The MCP Service Management Platform is a comprehensive platform designed for reg
 ## License
 Apache License - see the [LICENSE](LICENSE) file for details
 
-## Contact
-- Repository: [https://gitee.com/jiangxue-waxberry/waxberry-rag.git]
-- Email: [info@yangmeigongye.com] 
